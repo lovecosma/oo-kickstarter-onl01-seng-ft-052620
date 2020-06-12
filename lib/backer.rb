@@ -10,7 +10,7 @@ def back_project(project)
 end
 
 def add_backer(backer)
-end 
+end
 
 
 
