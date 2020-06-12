@@ -9,6 +9,9 @@ def back_project(project)
 @backed_projects << project
 end
 
+def add_backer(backer)
+end 
+
 
 
 end
